@@ -15,7 +15,7 @@ const Testimonial = () => {
     {
       img: L1,
       review:
-        "Experienced in web development, UI/UX design, and desktop applications, creating responsive websites and intuitive user interfaces for seamless digital experiences. Passionate about crafting visually appealing and functional designs with a user-centric approach.",
+        "Experienced in web development, UI/UX design, and desktop applications, creating responsive websites and intuitive user interfaces for seamless digital experiences.",
     },
     {
       img: L2,
